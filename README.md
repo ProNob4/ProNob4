@@ -12,6 +12,12 @@ Hi there! I'm Pronob – a passionate learner who’s exploring the world of tec
 
 ---
 
+## 🏆 Achievements:
+- 📄 **Published my first research paper:**  
+  **UDCAD-DFL-DL: A Unique Dataset for Classifying and Detecting Agricultural Diseases in Dragon Fruits and Leaves**  
+  📚 [DOI: 10.1016/j.dib.2025.111411](https://doi.org/10.1016/j.dib.2025.111411)
+
+
 ## 💻 Tech Stack:
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
