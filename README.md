@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Pronob+Chandra+Sarkar;Tech+Explorer+%7C+AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
-</h1>
-
+<h1 align="center">Hi there 👋, I'm Pronob Chandra Sarkar</h1>
 <p align="center">🚀 Passionate Learner | 👨‍💻 Tech Explorer | 📚 Research Enthusiast</p>
 
 ---
@@ -13,20 +10,24 @@ Forever curious and evolving — because every line of code tells a story. 🧠�
 
 ---
 
-## 🌗 Dark/Light Mode Tip
-
-> 💡 For the best visual experience, enable **dark mode** in GitHub settings!
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://discord.gg/pronob0821"><img src="https://skillicons.dev/icons?i=discord" width="40" title="Discord" /></a>
-  <a href="https://facebook.com/pronob.sarkar.526"><img src="https://skillicons.dev/icons?i=facebook" width="40" title="Facebook" /></a>
-  <a href="https://instagram.com/pronob_32"><img src="https://skillicons.dev/icons?i=instagram" width="40" title="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252"><img src="https://skillicons.dev/icons?i=linkedin" width="40" title="LinkedIn" /></a>
-  <a href="mailto:pronob899@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" title="Email" /></a>
+  <a href="https://discord.gg/pronob0821">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" title="Discord" />
+  </a>
+  <a href="https://facebook.com/pronob.sarkar.526">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" title="Facebook" />
+  </a>
+  <a href="https://instagram.com/pronob_32">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" title="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" title="LinkedIn" />
+  </a>
+  <a href="mailto:pronob899@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" title="Email" />
+  </a>
 </p>
 
 ---
@@ -61,20 +62,11 @@ Forever curious and evolving — because every line of code tells a story. 🧠�
 
 ---
 
-## 📌 Highlight Projects & Links
-
-| Project | Description | Badges |
-|--------|-------------|--------|
-| [🌐 Personal Website](https://sites.google.com/diu.edu.bd/pronobchandrasarkar/about) | My academic & professional showcase. | ![HTML](https://img.shields.io/badge/Built%20With-HTML-orange?style=flat-square) ![Live](https://img.shields.io/badge/Live-green?style=flat-square) |
-| [📄 Research Dataset](https://doi.org/10.1016/j.dib.2025.111411) | Dragon Fruit Disease Classification Dataset | ![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.dib.2025.111411-blue?style=flat-square) |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
@@ -107,7 +99,7 @@ Forever curious and evolving — because every line of code tells a story. 🧠�
 
 ---
 
-## 👀 Profile Visitors
+## 📊 Profile Visitors
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
