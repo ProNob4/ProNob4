@@ -12,14 +12,7 @@ Always curious, always learning — because the best code is written with passio
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://discord.gg/pronob0821"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/pronob.sarkar.526"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/pronob_32"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pronob899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
+<p align="center"> <a href="https://discord.gg/pronob0821"> <img src="https://img.icons8.com/ios-filled/50/7289DA/discord-logo.png" width="40" height="40" alt="Discord" title="Discord" style="border-radius: 50%;" /> </a> <a href="https://facebook.com/pronob.sarkar.526"> <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" width="40" height="40" alt="Facebook" title="Facebook" style="border-radius: 50%;" /> </a> <a href="https://instagram.com/pronob_32"> <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" alt="Instagram" title="Instagram" style="border-radius: 50%;" /> </a> <a href="https://www.linkedin.com/in/pronob-sarkar-451360252"> <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn" style="border-radius: 50%;" /> </a> <a href="mailto:pronob899@gmail.com"> <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="40" height="40" alt="Email" title="Email" style="border-radius: 50%;" /> </a> </p>
 ---
 
 ## 🏆 Achievements
