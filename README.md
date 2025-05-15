@@ -43,13 +43,25 @@ Hi there! I'm Pronob – a passionate learner who’s exploring the world of tec
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
+## 🚀 GitHub Activity & Stats
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ProNob4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProNob4&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Pronob's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNob4&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ProNob4&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
