@@ -5,14 +5,31 @@
 
 ## 💫 About Me
 
-I'm **Pronob**, an enthusiastic Computer Science student diving deep into the world of development, AI, and open-source tech.  
-Always curious, always learning — because the best code is written with passion and purpose. 🧠⚡
+I'm **Pronob**, a Computer Science student diving deep into development, AI, and open-source tech.  
+Forever curious and evolving — because every line of code tells a story. 🧠💡
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="center"> <a href="https://discord.gg/pronob0821"> <img src="https://img.icons8.com/ios-filled/50/7289DA/discord-logo.png" width="40" height="40" alt="Discord" title="Discord" style="border-radius: 50%;" /> </a> <a href="https://facebook.com/pronob.sarkar.526"> <img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" width="40" height="40" alt="Facebook" title="Facebook" style="border-radius: 50%;" /> </a> <a href="https://instagram.com/pronob_32"> <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" alt="Instagram" title="Instagram" style="border-radius: 50%;" /> </a> <a href="https://www.linkedin.com/in/pronob-sarkar-451360252"> <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn" style="border-radius: 50%;" /> </a> <a href="mailto:pronob899@gmail.com"> <img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" width="40" height="40" alt="Email" title="Email" style="border-radius: 50%;" /> </a> </p>
+<p align="center">
+  <a href="https://discord.gg/pronob0821">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" title="Discord" />
+  </a>
+  <a href="https://facebook.com/pronob.sarkar.526">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" title="Facebook" />
+  </a>
+  <a href="https://instagram.com/pronob_32">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" title="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" title="LinkedIn" />
+  </a>
+  <a href="mailto:pronob899@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" title="Email" />
+  </a>
+</p>
+
 ---
 
 ## 🏆 Achievements
@@ -26,32 +43,21 @@ Always curious, always learning — because the best code is written with passio
 ## 💻 Tech Stack
 
 ### 🔹 Languages & Frameworks
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,python,latex,html,css,js,django,flask,dotnet,flutter" />
 </p>
 
 ### 🎨 Design & Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,canva,vscode,github" />
 </p>
 
 ### 📊 Data Science & ML
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow" />
 </p>
 
 ---
@@ -59,8 +65,8 @@ Always curious, always learning — because the best code is written with passio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
