@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pronob Chandra Sarkar</h1>
 <p align="center">🚀 Passionate Learner | 👨‍💻 Tech Explorer | 📚 Research Enthusiast</p>
 
----
+--
 
 ## 💫 About Me
 
