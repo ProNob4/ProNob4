@@ -1,6 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Pronob Chandra Sarkar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pronob+Chandra+Sarkar;XAI+Researcher+%7C+Mobile+Developer;Building+Explainable+AI+Systems" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  🚀 <b>Explainable AI Researcher</b> | 👨‍💻 <b>Cross-Platform Mobile Developer</b> | 📚 <b>CSE Student @ DIU</b>
+  <b>🔬 Explainable AI Researcher &nbsp;|&nbsp; 📱 Cross-Platform Mobile Developer &nbsp;|&nbsp; 🎓 CSE @ DIU (CGPA 3.56)</b>
 </p>
 
 <p align="center">
@@ -11,116 +14,135 @@
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-I am a highly motivated and detail-oriented undergraduate **Computer Science and Engineering** student at **Daffodil International University** (Current CGPA: 3.56). My core focus centers on engineering transparent deep learning architectures utilizing **Explainable AI (XAI)** parameters and building responsive cross-platform mobile systems.
+I'm an undergraduate **Computer Science & Engineering** student at **Daffodil International University**, focused on engineering transparent deep learning architectures using **Explainable AI (XAI)** and building responsive cross-platform mobile applications.
 
-* 🧪 **Active Research Tracks:** Visual model explanation layers (Grad-CAM), structural agricultural disease detection, and deep learning neural benchmarks.
-* 💻 **Development Focus:** Asynchronous cloud architectures, complex algorithms demonstration tools, and native mobile rendering engines.
+```python
+pronob = {
+    "research"    : ["Explainable AI (XAI)", "Grad-CAM Visualization", "Agricultural Disease Detection"],
+    "development" : ["Cross-Platform Mobile Apps (Flutter)", "Cloud Architectures", "Algorithm Visualizers"],
+    "published_in": "Elsevier — Data in Brief, 2025",
+    "currently"   : "Working on deep learning benchmarks & XAI layer integration",
+    "fun_fact"    : "I build both neural nets AND native game engines 🎮"
+}
+```
 
 ---
 
-## 🌐 Connect with Me
+## 📄 Published Research
+
+> **UDCAD-DFL-DL: A Unique Dataset for Classifying and Detecting Agricultural Diseases in Dragon Fruits and Leaves**  
+> 📰 *Data in Brief, Elsevier — 2025*  
+> 🔗 DOI: [10.1016/j.dib.2025.111411](https://doi.org/10.1016/j.dib.2025.111411)
+
+Curated a publicly available agricultural computer vision dataset and evaluated benchmark Deep CNN configurations (VGG16, ResNet50) to support crop disease detection systems powered by explainability layers.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=red)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile XAI Disease Classifier
+**Flutter · Python/Flask · CNNs · Grad-CAM**
+
+Cross-platform app that classifies agricultural plant diseases in real time with localized **Grad-CAM explainability overlays** — showing *why* the model made its prediction.
+
+</td>
+<td width="50%">
+
+### 🧠 Mind Cure — Mental Health App
+**Flutter · Firebase · Async Architecture**
+
+Task tracking & mindfulness dashboard with secure auth tokens, real-time data sync, and personalized user profiles.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Algorithm Visualizer
+**JavaScript · HTML5 · CSS3 · DOM Engine**
+
+Interactive step-by-step tool demonstrating sorting algorithms and graph traversal — built for education and logic tracing.
+
+</td>
+<td width="50%">
+
+### 🕹️ Jungle Adventure (OpenGL)
+**C++ · OpenGL · GLUT**
+
+Side-scrolling game built with low-level raster algorithms — manual **DDA line rendering** and **Midpoint Circle Generation**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pronob899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ProNob4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://facebook.com/pronob.sarkar.526" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/pronob_32" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/pronob0821" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
-## 🔬 Peer-Reviewed Publications & Research
-
-* 📄 **Published Journal Article (Elsevier):**  
-  **UDCAD-DFL-DL: A Unique Dataset for Classifying and Detecting Agricultural Diseases in Dragon Fruits and Leaves**  
-  *Published in Data in Brief, 2025*  
-  🔗 **DOI Link:** [10.1016/j.dib.2025.111411](https://doi.org/10.1016/j.dib.2025.111411)
-  
-> Curated and systematically structured a unique, publicly available agricultural computer vision image dataset (UDCAD-DFL-DL) and evaluated benchmark Deep Convolutional Neural Network configurations to support algorithmic crop preservation engines.
-
----
-
-## 🛠️ Complete Tech Stack
-
-### 🔹 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-
-### 🔹 Frameworks & Web Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
-</p>
-
----
-
-## 💻 Highlighted Engineering Works & Visualizers
-
-### 🔍 Core Project Showcases
-* 📱 **Mobile Disease Classification App & XAI Integration**  
-  *Flutter, Dart, Python/Flask, CNNs (VGG16/ResNet50), Grad-CAM Layer Engine*  
-  Cross-platform app executing instant visual agricultural plant check inferences powered by localized explainability maps.
-  
-* 🧠 **Mind Cure — Mental Health Application Suite**  
-  *Flutter, Dart, Firebase Suite, Asynchronous Architecture Engine*  
-  Task tracking and structural mindfulness dashboard running secure client identity tokens and data syncing profiles.
-
-### 📊 Algorithmic Visualizers
-* 📉 **Algorithm Visualizer Site (Interactive Web)**  
-  *JavaScript, HTML5, CSS3, DOM State Engine*  
-  Designed an interactive step-by-step educational tool that visually demonstrates complex algorithms including **Adversarial Sorting Array steps** and dynamic **Graph Traversal routes** to evaluate logic execution processing metrics.
-
-* 🕹️ **Jungle Adventure OpenGL Game & Render Loop**  
-  *C++, Native OpenGL, GLUT Toolset*  
-  Side-scrolling engine running low-level computer graphics raster algorithms, including manual **Digital Differential Analyzer (DDA) Line Rendering** and mathematical **Midpoint Circle Generation**.
-
----
-
-## 📊 GitHub System Analytics & Visualizers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNob4&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-## 🏅 System Achievements & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProNob4&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=15" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProNob4&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ProNob4&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProNob4&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💬 Dev Quote of the Day
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ProNob4&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pronob-sarkar-451360252"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pronob899@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ProNob4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://facebook.com/pronob.sarkar.526"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/pronob_32"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/pronob0821"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <i>Open to research collaborations, internships, and interesting build conversations.</i>
 </p>
