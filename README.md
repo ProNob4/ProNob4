@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pronob Chandra Sarkar</h1>
 <p align="center">
-  🚀 <b>Explainable AI Researcher</b> | 👨‍💻 <b>Cross-Platform Mobile Developer</b> | 📚 <b>Computer Science & Engineering Student</b>
+  🚀 <b>Explainable AI Researcher</b> | 👨‍💻 <b>Cross-Platform Mobile Developer</b> | 📚 <b>CSE Student @ DIU</b>
 </p>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ## 💫 About Me
 
-I am a highly motivated and detail-oriented undergraduate **Computer Science and Engineering** student at **Daffodil International University** (CGPA: 3.56)[cite: 1]. My work spans the intersection of **Deep Learning / Explainable AI (XAI)** architectures and **Mobile Application Development** using Flutter[cite: 1]. 
+I am a highly motivated and detail-oriented undergraduate **Computer Science and Engineering** student at **Daffodil International University** (Current CGPA: 3.56)[cite: 1]. My core focus centers on engineering transparent deep learning architectures utilizing **Explainable AI (XAI)** parameters and building responsive cross-platform mobile systems[cite: 1].
 
-* 🧪 **Currently Focusing On:** Visual interpretation layers (Grad-CAM), agricultural anomaly detection models, and robust cloud-connected mobile architectures[cite: 1].
-* 🧠 **Philosophy:** Always curious, always learning — because the best code is written with passion, mathematical precision, and real-world impact.
+* 🧪 **Active Research Tracks:** Visual model explanation layers (Grad-CAM), structural agricultural disease detection, and deep learning neural benchmarks[cite: 1].
+* 💻 **Development Focus:** Asynchronous cloud architectures, complex algorithms demonstration tools, and native mobile rendering engines[cite: 1].
 
 ---
 
@@ -40,25 +40,25 @@ I am a highly motivated and detail-oriented undergraduate **Computer Science and
   *Published in Data in Brief, 2025*[cite: 1]  
   🔗 **DOI Link:** [10.1016/j.dib.2025.111411](https://doi.org/10.1016/j.dib.2025.111411)[cite: 1]
   
-> Curated and engineered a unique, publicly available agricultural image dataset and established baseline deep convolutional neural network configurations to support algorithmic crop preservation systems[cite: 1].
+> Curated and systematically structured a unique, publicly available agricultural computer vision image dataset (UDCAD-DFL-DL) and evaluated benchmark Deep Convolutional Neural Network configurations to support algorithmic crop preservation engines[cite: 1].
 
 ---
 
 ## 🛠️ Complete Tech Stack
 
-### 🔹 Languages & Core Development
+### 🔹 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&omega;logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-### 🔹 Frameworks, Libraries & Platforms
+### 🔹 Frameworks & Web Engines
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
@@ -70,38 +70,31 @@ I am a highly motivated and detail-oriented undergraduate **Computer Science and
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=red" alt="OpenGL" />
 </p>
 
-### 🔹 Tools & Data Processing
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
 ---
 
-## 🛠️ Key Academic & Engineering Projects
+## 💻 Highlighted Engineering Works & Visualizers
 
+### 🔍 Core Project Showcases
 * 📱 **Mobile Disease Classification App & XAI Integration**[cite: 1]  
-  *Flutter, Dart, Python/Flask, CNNs (VGG16/ResNet50), Grad-CAM visual layers*[cite: 1]  
-  Cross-platform app executing instant agricultural visual plant check inferences powered by localized explainability interfaces[cite: 1].
+  *Flutter, Dart, Python/Flask, CNNs (VGG16/ResNet50), Grad-CAM Layer Engine*[cite: 1]  
+  Cross-platform app executing instant visual agricultural plant check inferences powered by localized explainability maps[cite: 1].
   
 * 🧠 **Mind Cure — Mental Health Application Suite**  
-  *Flutter, Dart, Firebase Suite, Cloud Architecture Engine*  
-  Task tracking and core mindfulness engine built with secure client auth parameters and asynchronous live cloud data syncing.
+  *Flutter, Dart, Firebase Suite, Asynchronous Architecture Engine*  
+  Task tracking and structural mindfulness dashboard running secure client identity tokens and data syncing profiles.
 
-* 🌐 **Full-Stack Tournament Management Infrastructure**[cite: 1]  
-  *HTML5, CSS3, JavaScript, Complex SQL Core Engine*[cite: 1]  
-  Web application architecture running structured tournament tier bracket management, player registrations, and dynamic ranking trees[cite: 1].
+### 📊 Algorithmic Visualizers
+* 📉 **Algorithm Visualizer Site (Interactive Web)**[cite: 1]  
+  *JavaScript, HTML5, CSS3, DOM State Engine*[cite: 1]  
+  Designed an interactive step-by-step educational tool that visually demonstrates complex algorithms including **Adversarial Sorting Array steps** and dynamic **Graph Traversal routes** to evaluate logic execution processing metrics[cite: 1].
 
 * 🕹️ **Jungle Adventure OpenGL Game & Render Loop**  
   *C++, Native OpenGL, GLUT Toolset*  
-  Side-scrolling platformer using low-level raster math logic, including active **DDA Line Drawing** and **Midpoint Circle Drawing** executions.
+  Side-scrolling engine running low-level computer graphics raster algorithms, including manual **Digital Differential Analyzer (DDA) Line Rendering** and mathematical **Midpoint Circle Generation**.
 
 ---
 
-## 📈 GitHub Statistics & Engine Metrics
+## 📊 GitHub System Analytics & Visualizers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProNob4&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
