@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>🔬 Explainable AI Researcher &nbsp;|&nbsp; 📱 Cross-Platform Mobile Developer &nbsp;|&nbsp; 🎓 CSE @ DIU (CGPA 3.56)</b>
+  <b>🔬 Explainable AI Researcher &nbsp;|&nbsp; 📱 Cross-Platform Mobile Developer &nbsp;|&nbsp; 🎓 CSE @ DIU (CGPA below 4)</b>
 </p>
 
 <p align="center">
